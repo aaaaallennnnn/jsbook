@@ -1,0 +1,3 @@
+exception handling catches errors and deals with them in a predictable manner
+
+it solves catastrophic failures during code execution that would otherwise stop the program

@@ -1,0 +1,1 @@
+splits string by space characters into an array, reverses the order of the character blocks, and then outputs an array that represents the lengths of each block of characters

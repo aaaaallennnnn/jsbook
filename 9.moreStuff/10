@@ -1,0 +1,6 @@
+returns 5
+
+++ operator coerces into int
+because its post increment it returns intiial value of 5
+
+++y would return 6
